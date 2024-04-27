@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://example.com/image1.jpg",
+    "touristsSpotName": "Sundarbans",
+    "countryName": "Bangladesh",
+    "location": "Khulna Division",
+    "averageCost": "$200",
+    "seasonality": "All year",
+    "travelTime": "2 days",
+    "totalVisitorsPerYear": 500000,
+    "shortDescription": "Explore the largest mangrove forest in the world."
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://example.com/image2.jpg",
+    "touristsSpotName": "Cox's Bazar",
+    "countryName": "Bangladesh",
+    "location": "Chittagong Division",
+    "averageCost": "$150",
+    "seasonality": "All year",
+    "travelTime": "1 day",
+    "totalVisitorsPerYear": 1000000,
+    "shortDescription": "Enjoy the longest natural sea beach in the world."
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://example.com/image3.jpg",
+    "touristsSpotName": "Rangamati",
+    "countryName": "Bangladesh",
+    "location": "Chittagong Hill Tracts",
+    "averageCost": "$100",
+    "seasonality": "All year",
+    "travelTime": "1 day",
+    "totalVisitorsPerYear": 300000,
+    "shortDescription": "Discover the serene beauty of the Kaptai Lake."
+  }
+]
